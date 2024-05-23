@@ -163,6 +163,10 @@ textarea:focus-visible {
   outline: 2px solid var(--para-color);
 }
 
+.logo
+{
+  border-radius: 30px;
+}
 /** CSS for toast notifications */
 .toast {
   position: fixed;

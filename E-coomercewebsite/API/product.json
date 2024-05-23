@@ -1,162 +1,183 @@
 [
-    {
-      "id": 1,
-      "name": "Laptop",
-      "category": "Computers",
-      "brand": "ExampleBrand",
-      "price": 999.99,
-      "stock": 50,
-      "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
-      "image": "../images/lapi.png"
-    },
-    {
-      "id": 2,
-      "name": "Smartphone",
-      "category": "Mobiles",
-      "brand": "TechGadget",
-      "price": 499.99,
-      "stock": 100,
-      "image": "../images/iphone.png",
-      "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
-    },
-    {
-      "id": 3,
-      "name": "Wireless Headphones",
-      "category": "Audio",
-      "brand": "SoundBeats",
-      "price": 149.99,
-      "stock": 30,
-      "image": "../images/headphone.png",
-      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
-    },
-    {
-      "id": 4,
-      "name": "Watches",
-      "category": "Wearables",
-      "brand": "FitTech",
-      "price": 199.99,
-      "stock": 20,
-      "image": "../images/watch.png",
-      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
-    },
-    {
-      "id": 5,
-      "name": "Speakers",
-      "category": "Audio",
-      "brand": "SoundBeats",
-      "price": 149.99,
-      "stock": 30,
-      "image": "../images/speakers.png",
-      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
-    },
-    {
-      "id": 6,
-      "name": "Television",
-      "category": "Video",
-      "brand": "Samsung",
-      "price": 199.99,
-      "stock": 20,
-      "image": "../images/tv.png",
-      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
-    },
-    {
-        "id": 7,
-        "name": "Tablet",
-        "category": "Computers",
-        "brand": "TechGadget",
-        "price": 299.99,
-        "stock": 75,
-        "description": "Lightweight tablet with a 10.1-inch display, 64GB storage, and a 6000mAh battery.",
-        "image": "../images/tablet.png"
-    },
-    {
-        "id": 8,
-        "name": "Gaming Console",
-        "category": "Gaming",
-        "brand": "GameBox",
-        "price": 399.99,
-        "stock": 40,
-        "description": "Next-gen gaming console with 4K support, 1TB storage, and a powerful GPU for an immersive gaming experience.",
-        "image": "../images/console.png"
-    },
-    {
-        "id": 9,
-        "name": "Digital Camera",
-        "category": "Photography",
-        "brand": "SnapShot",
-        "price": 549.99,
-        "stock": 25,
-        "description": "Compact digital camera with 20MP resolution, 4K video recording, and a variety of shooting modes.",
-        "image": "../images/camera.png"
-    },
-    {
-        "id": 10,
-        "name": "Fitness Tracker",
-        "category": "Wearables",
-        "brand": "FitTech",
-        "price": 99.99,
-        "stock": 150,
-        "description": "Advanced fitness tracker with heart rate monitoring, GPS, and long battery life.",
-        "image": "../images/fitnesstracker.png"
-    },
-    {
-        "id": 11,
-        "name": "Smart Home Hub",
-        "category": "Smart Home",
-        "brand": "HomeEase",
-        "price": 129.99,
-        "stock": 60,
-        "description": "Central hub for smart home devices, with voice control and compatibility with various smart home brands.",
-        "image": "../images/smarthomehub.png"
-    },
-    {
-        "id": 12,
-        "name": "Electric Toothbrush",
-        "category": "Personal Care",
-        "brand": "OralBreeze",
-        "price": 79.99,
-        "stock": 80,
-        "description": "Rechargeable electric toothbrush with multiple brushing modes and a pressure sensor.",
-        "image": "../images/toothbrush.png"
-    },
-    {
-        "id": 13,
-        "name": "Bluetooth Speaker",
-        "category": "Audio",
-        "brand": "SoundBlaster",
-        "price": 89.99,
-        "stock": 45,
-        "description": "Portable Bluetooth speaker with high-fidelity sound, 12-hour battery life, and water-resistant design.",
-        "image": "../images/bluetoothspeaker.png"
-    },
-    {
-        "id": 14,
-        "name": "E-Reader",
-        "category": "Electronics",
-        "brand": "BookWorm",
-        "price": 129.99,
-        "stock": 55,
-        "description": "E-reader with a 7-inch glare-free screen, adjustable lighting, and 8GB of storage for thousands of books.",
-        "image": "../images/ereader.png"
-    },
-    {
-        "id": 15,
-        "name": "Smart Light Bulb",
-        "category": "Smart Home",
-        "brand": "Lightify",
-        "price": 19.99,
-        "stock": 200,
-        "description": "Energy-efficient smart light bulb with adjustable color and brightness, controlled via smartphone app.",
-        "image": "../images/smartbulb.png"
-    },
-    {
-        "id": 16,
-        "name": "Drone",
-        "category": "Photography",
-        "brand": "FlyHigh",
-        "price": 699.99,
-        "stock": 20,
-        "description": "Advanced drone with 4K camera, GPS, and a range of intelligent flight modes for stunning aerial photography.",
-        "image": "../images/drone.png"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Computers",
+    "brand": "ExampleBrand",
+    "price": 999.99,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+    "image": "../images/lapi.png"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Mobiles",
+    "brand": "TechGadget",
+    "price": 499.99,
+    "stock": 100,
+    "image": "../images/iphone.png",
+    "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "image": "../images/headphone.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 4,
+    "name": "Watches",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../images/watch.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 5,
+    "name": "Speakers",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "image": "../images/speakers.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 6,
+    "name": "Television",
+    "category": "Video",
+    "brand": "Samsung",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../images/tv.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 7,
+    "name": "Tablet",
+    "category": "Computers",
+    "brand": "TechGadget",
+    "price": 299.99,
+    "stock": 75,
+    "description": "Lightweight tablet with a 10.1-inch display, 64GB storage, and a 6000mAh battery.",
+    "image": "../images/tablet.png"
+  },
+  {
+    "id": 8,
+    "name": "Gaming Console",
+    "category": "Gaming",
+    "brand": "GameBox",
+    "price": 399.99,
+    "stock": 40,
+    "description": "Next-gen gaming console with 4K support, 1TB storage, and a powerful GPU for an immersive gaming experience.",
+    "image": "../images/console.png"
+  },
+  {
+    "id": 9,
+    "name": "Digital Camera",
+    "category": "Photography",
+    "brand": "SnapShot",
+    "price": 549.99,
+    "stock": 25,
+    "description": "Compact digital camera with 20MP resolution, 4K video recording, and a variety of shooting modes.",
+    "image": "../images/camera.png"
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 99.99,
+    "stock": 150,
+    "description": "Advanced fitness tracker with heart rate monitoring, GPS, and long battery life.",
+    "image": "../images/fitnesstracker.png"
+  },
+  {
+    "id": 11,
+    "name": "Smart Home Hub",
+    "category": "Smart Home",
+    "brand": "HomeEase",
+    "price": 129.99,
+    "stock": 60,
+    "description": "Central hub for smart home devices, with voice control and compatibility with various smart home brands.",
+    "image": "../images/smarthomehub.png"
+  },
+  {
+    "id": 12,
+    "name": "Electric Toothbrush",
+    "category": "Personal Care",
+    "brand": "OralBreeze",
+    "price": 79.99,
+    "stock": 80,
+    "description": "Rechargeable electric toothbrush with multiple brushing modes and a pressure sensor.",
+    "image": "../images/toothbrush.png"
+  },
+  {
+    "id": 13,
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "brand": "SoundBlaster",
+    "price": 89.99,
+    "stock": 45,
+    "description": "Portable Bluetooth speaker with high-fidelity sound, 12-hour battery life, and water-resistant design.",
+    "image": "../images/bluetoothspeaker.png"
+  },
+  {
+    "id": 14,
+    "name": "E-Reader",
+    "category": "Electronics",
+    "brand": "BookWorm",
+    "price": 129.99,
+    "stock": 55,
+    "description": "E-reader with a 7-inch glare-free screen, adjustable lighting, and 8GB of storage for thousands of books.",
+    "image": "../images/ereader.png"
+  },
+  {
+    "id": 15,
+    "name": "Smart Light Bulb",
+    "category": "Smart Home",
+    "brand": "Lightify",
+    "price": 19.99,
+    "stock": 200,
+    "description": "Energy-efficient smart light bulb with adjustable color and brightness, controlled via smartphone app.",
+    "image": "../images/smartbulb.png"
+  },
+  {
+    "id": 16,
+    "name": "Drone",
+    "category": "Photography",
+    "brand": "FlyHigh",
+    "price": 699.99,
+    "stock": 20,
+    "description": "Advanced drone with 4K camera, GPS, and a range of intelligent flight modes for stunning aerial photography.",
+    "image": "../images/drone.png"
+  },
+  {
+    "id": 17,
+    "name": "VR Headset",
+    "category": "Gaming",
+    "brand": "VirtualPlay",
+    "price": 299.99,
+    "stock": 15,
+    "description": "Immersive VR headset with 4K resolution, wide field of view, and comfortable design for extended play sessions.",
+    "image": "../images/vrheadset.png"
+},
+{
+    "id": 18,
+    "name": "Smart Thermostat",
+    "category": "Smart Home",
+    "brand": "EcoComfort",
+    "price": 199.99,
+    "stock": 50,
+    "description": "Smart thermostat with learning capabilities, remote control via smartphone app, and energy-saving features.",
+    "image": "../images/smartthermostat.png"
+}
+
+]
